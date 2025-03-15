@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "./Image";
-import image from "next/image"; // ✅ Use Next.js built-in Image component
+// import image from "next/image"; // ✅ Use Next.js built-in Image component
 
 import Socket from "./Socket";
 import Notification from "./Notification";
